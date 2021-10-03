@@ -1,0 +1,1 @@
+# Alternatives-to-reporting-a-p-value-the-case-of-a-contingency-table
